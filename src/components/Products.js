@@ -179,7 +179,7 @@ export const BootProduct = props => {
           -20%
         </Text>
         <Image
-          source={require('../assets/images/adidas.png')}
+          source={require('../assets/images/custom.png')}
           style={styles.productImage}
         />
         <View style={{flexDirection: 'row', justifyContent: 'space-around'}}>
@@ -256,7 +256,7 @@ export const BootProduct = props => {
           -20%
         </Text>
         <Image
-          source={require('../assets/images/puma.png')}
+          source={require('../assets/images/nike.png')}
           style={styles.productImage}
         />
         <View style={{flexDirection: 'row', justifyContent: 'space-around'}}>
@@ -539,7 +539,7 @@ export const CapProduct = props => {
           -20%
         </Text>
         <Image
-          source={require('../assets/images/cap3.png')}
+          source={require('../assets/images/cap4.png')}
           style={styles.productImage}
           resizeMode="stretch"
         />

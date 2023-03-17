@@ -1,4 +1,4 @@
-import CameraRoll from '@react-native-community/cameraroll';
+import {CameraRoll} from '@react-native-camera-roll/camera-roll';
 import {useNavigation} from '@react-navigation/native';
 import React from 'react';
 import {Alert, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
